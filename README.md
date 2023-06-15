@@ -71,9 +71,6 @@ recommendations
 * Your manager would like to understand the relationships between customer purchases, product categories and revenue, to enable more sales, an increase in revenue per sale and to improve the quantity of products purchased per sale.
 * They want to understand the role that the time of year plays to a customer, as this insight would likely improve sales significantly.
 * The key challenge facing the board is that decisions will need to be made regarding upcoming, coinciding marketing campaigns and if these should be postponed temporarily or permanently.
-<<<<<<< HEAD
 
 ## References
 e-careers
-=======
->>>>>>> refs/remotes/origin/main
